@@ -5,7 +5,6 @@
         <td><img src="assets/dashboard.png" alt="Screenshot 1"></td>
         <td><img src="assets/hr.png" alt="Screenshot 2"></td>
     </tr>
-    
     <tr>
         <td><img src="assets/R&D.png" alt="Screenshot 1"></td>
         <td><img src="assets/sales.png" alt="Screenshot 2"></td>
